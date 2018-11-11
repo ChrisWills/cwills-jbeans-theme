@@ -450,17 +450,6 @@
        `(trailing-whitespace                 ((,class (:background ,jbeans-red-4))))
 ;;;;; Vertical border
        `(vertical-border                     ((,class (:foreground ,jbeans-grey-3))))
-;;;;; rainbow-delimiters                                                                                                                                       
-     `(rainbow-delimiters-depth-1-face ((,class :foreground ,keyword)))                                                                                        
-     `(rainbow-delimiters-depth-2-face ((,class :foreground ,func)))                                                                                           
-     `(rainbow-delimiters-depth-3-face ((,class :foreground ,str)))                                                                                            
-     `(rainbow-delimiters-depth-4-face ((,class :foreground ,green)))                                                                                          
-     `(rainbow-delimiters-depth-5-face ((,class :foreground ,yellow)))                                                                                         
-     `(rainbow-delimiters-depth-6-face ((,class :foreground ,keyword)))                                                                                        
-     `(rainbow-delimiters-depth-7-face ((,class :foreground ,func)))                                                                                           
-     `(rainbow-delimiters-depth-8-face ((,class :foreground ,str)))                                                                                            
-     `(rainbow-delimiters-mismatched-face ((,class :foreground ,err :overline t)))                                                                             
-     `(rainbow-delimiters-unmatched-face ((,class :foreground ,err :overline t)))   
 ;;;;; Web Mode
        `(web-mode-builtin-face               ((,class (:foreground ,jbeans-blue-1))))
        `(web-mode-html-attr-name-face        ((,class (:foreground ,jbeans-blue-0))))
